@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lennymalard
-- 👀 I’m interested in skateboarding and computer science.
+- 👀 I’m interested in skateboarding and computer sciences.
 - 🌱 I’m currently learning deep learning.
 - 💞️ I’m looking to collaborate on nothing for the moment.
 - 📫 How to reach me : lennymalard@gmail.com or @lenny_mlrd on instagram.
