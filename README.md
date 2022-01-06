@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lennymalard
 - 👀 I’m interested in skateboarding and computer science.
-- 🌱 I’m currently learning Python, C, C#, Javascript and PHP as languages.
+- 🌱 I’m currently learning deep learning.
 - 💞️ I’m looking to collaborate on nothing for the moment.
 - 📫 How to reach me : lennymalard@gmail.com or @lenny_mlrd on instagram.
 
