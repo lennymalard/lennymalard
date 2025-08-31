@@ -20,7 +20,7 @@ I’m a self-taught AI enthusiast exploring Deep Learning and AI in depth, build
   - Autodiff engine  
   - Modular API  
   - Implementations of CNNs, LSTMs, FNNs  
-  - Toy demos like Shakespeare, MNIST, or Titanic  
+  - Toy demos like Shakespeare, MNIST or Titanic  
 
 - 🧠 **Transformer Variants** ([repo](https://github.com/lennymalard/Conv-Linformer))  
   - Encoder-only Transformer  
@@ -39,7 +39,6 @@ I’m a self-taught AI enthusiast exploring Deep Learning and AI in depth, build
   - Self-supervised learning  
   - Financial analysis
 
-  
 ---
 
 ## 📫 Connect With Me  
