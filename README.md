@@ -1,6 +1,6 @@
 # Hi, I’m Lenny 👋
 
-I’m a self-taught AI enthusiast exploring Deep Learning and AI in depth, building and experimenting with models, algorithms and end-to-end systems.
+I’m a self-taught AI enthusiast exploring Deep Learning and AI in depth, building and experimenting with models, algorithms and end-to-end systems, all built from scratch.
 
 ---
 
