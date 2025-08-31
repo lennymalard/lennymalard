@@ -1,6 +1,6 @@
 # Hi, I’m Lenny 👋
 
-I’m a student and an AI enthusiast, specializing in all aspects of **Deep Learning** by building diverse AI systems from the ground up.
+I’m a self-taught AI enthusiast exploring Deep Learning and AI in depth, building and experimenting with models, algorithms and end-to-end systems.
 
 ---
 
@@ -15,10 +15,30 @@ I’m a student and an AI enthusiast, specializing in all aspects of **Deep Lear
 
 ## 🛠 Selected Public Projects  
 
-- 🚀 **Deep Learning Framework** – From scratch with NumPy; autodiff engine; modular API; implementations of CNNs, LSTMs, FNNs  
-- 🧠 **Transformer Variants** – Encoder-only Transformer; convolutional low-rank approximation of attention; improvement of stability and efficiency  
-- 🎮 **NeuroEvolution** – NEAT; reinforcement learning applied to toy environments and games
-- 📑 **iXBRL and LLMs** (TBA) – Parsing of financial filings; dataset creation; benchmarking; self-supervised learning; financial analysis
+- 🚀 **Deep Learning Framework** ([repo](https://github.com/lennymalard/melpy-project))  
+  - From scratch with NumPy  
+  - Autodiff engine  
+  - Modular API  
+  - Implementations of CNNs, LSTMs, FNNs  
+  - Toy demos like Shakespeare, MNIST, or Titanic  
+
+- 🧠 **Transformer Variants** ([repo](https://github.com/lennymalard/Conv-Linformer))  
+  - Encoder-only Transformer  
+  - Convolutional low-rank approximation of attention  
+  - Improvement of stability and efficiency  
+  - Extended abstract redaction  
+
+- 🎮 **NeuroEvolution** ([repo](https://github.com/lennymalard/neat-from-scratch))  
+  - NEAT framework  
+  - Experiments with toy environments  
+
+- 📑 **iXBRL and LLMs** (research project in development)  
+  - Parsing of financial filings  
+  - Dataset creation  
+  - Benchmarking  
+  - Self-supervised learning  
+  - Financial analysis
+
   
 ---
 
